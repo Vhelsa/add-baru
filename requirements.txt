@@ -1,0 +1,6 @@
+telethon
+aiofiles
+cryptg
+python-dateutil
+TelethonFakeTLS
+PySocks
